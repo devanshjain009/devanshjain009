@@ -20,11 +20,11 @@ Welcome to my GitHub profile! I’m passionate about building meaningful project
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [FixBuddy](https://github.com/FixBuddy/FixBuddy_DevJam)) | A service platform where users can book professionals, with real-time status and admin dashboard. | React, Node.js, MongoDB, Tailwind |
-| [Study Group Finder](https://github.com/devanshjain009/study-group-finder)) | Connect with students to form and join study groups based on shared interests and subjects. | Next.js, Tailwind CSS, MongoDB |
-| [Nextjs-Project]((https://github.com/devanshjain009/Next.js-project)) | My personal portfolio showcasing projects, blogs, and resume. | React, Framer Motion, Tailwind CSS |
+| [FixBuddy](https://github.com/FixBuddy/FixBuddy_DevJam) | A service platform where users can book professionals, with real-time status and admin dashboard. | React, Node.js, MongoDB, Tailwind |
+| [Study Group Finder](https://github.com/Group-Projects-009/study-group-finder) | Connect with students to form and join study groups based on shared interests and subjects. | Next.js, Tailwind CSS, MongoDB |
+| [Nextjs-Project](https://github.com/devanshjain009/Next.js-project) | My personal portfolio showcasing projects, blogs, and resume. | React, Framer Motion, Tailwind CSS |
 
----
+--- 
 
 ### 📊 GitHub Stats
 
@@ -40,6 +40,4 @@ Welcome to my GitHub profile! I’m passionate about building meaningful project
 
 ### 📫 Let's Connect!
 
-- 💼 [Portfolio Website](https://yourportfolio.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://www.linkedin.com/in/devans
+- 💼 [LinkedIn](https://www.linkedin.com/in/devansh-jain-500ab823b/)

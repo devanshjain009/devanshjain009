@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I’m passionate about building meaningful project
 
 - **Languages:** JavaScript, TypeScript, Python, C++
 - **Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3
-- **Backend:** Node.js, Express, MongoDB, Firebase, PostgreSQL
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Docker, Postman
-- **Others:** REST APIs, EJS, Prisma, MongoDB Atlas, JWT
+- **Backend:** Node.js, Express, MongoDB
+- **Tools & Platforms:** Git, GitHub, Vercel, Postman
+- **Others:** EJS, , MongoDB Atlas, JWT
 
 ---
 
@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I’m passionate about building meaningful project
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [FixBuddy](https://github.com/yourusername/fixbuddy) | A service platform where users can book professionals, with real-time status and admin dashboard. | React, Node.js, MongoDB, Tailwind |
-| [Study Group Finder](https://github.com/yourusername/study-group-finder) | Connect with students to form and join study groups based on shared interests and subjects. | Next.js, Tailwind CSS, MongoDB |
-| [Portfolio Site](https://yourportfolio.com) | My personal portfolio showcasing projects, blogs, and resume. | React, Framer Motion, Tailwind CSS |
+| [FixBuddy]([https://github.com/yourusername/fixbuddy](https://github.com/FixBuddy/FixBuddy_DevJam)) | A service platform where users can book professionals, with real-time status and admin dashboard. | React, Node.js, MongoDB, Tailwind |
+| [Study Group Finder]([https://github.com/devanshjain009/study-group-finder](https://github.com/Group-Projects-009/study-group-finder)) | Connect with students to form and join study groups based on shared interests and subjects. | Next.js, Tailwind CSS, MongoDB |
+| [Nextjs-Project]([https://yourportfolio.com](https://github.com/devanshjain009/Next.js-project)) | My personal portfolio showcasing projects, blogs, and resume. | React, Framer Motion, Tailwind CSS |
 
 ---
 

@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m passionate about building meaningful project
 |--------|-------------|-------|
 | [CryptoCred](https://github.com/CoderFleet/CryptoCred)) | A service platform where users can book professionals, with real-time status and admin dashboard. | React, Node.js, MongoDB, Tailwind |
 | [FixBuddy](https://github.com/FixBuddy/FixBuddy_DevJam) |CryptoCred is a decentralized platform that securely stores, issues, and verifies academic certificates using blockchain and NFT technology.|
-|
+
 | [Study Group Finder](https://github.com/Group-Projects-009/study-group-finder) | Connect with students to form and join study groups based on shared interests and subjects. | Next.js, Tailwind CSS, MongoDB |
 | [Nextjs-Project](https://github.com/devanshjain009/Next.js-project) | My personal portfolio showcasing projects, blogs, and resume. | React, Framer Motion, Tailwind CSS |
 
